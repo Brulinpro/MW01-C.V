@@ -1,0 +1,46 @@
+body {
+	border: 10px solid #173d4f;
+	border-radius: 20px;
+	margin: 10px;
+	padding: 2px;
+}
+#photo-identite {
+	width: 75px;
+	height: 75px;
+	float: right;
+	margin: 50px;
+	
+}
+@font-face {
+	font-family: Pixels;
+	src: url(04B_31__.TTF);
+}
+
+.DecorH1 {
+	font-size: 4em;
+	text-align: center;
+	font-family: Pixels;
+	color: #036360;
+	border: 10px solid #888899;
+	border-radius: 10px;
+	
+
+}
+h2 {
+	margin: 1px;
+	font-size: 2em;
+	text-align: left;
+	font-family: Pixels;
+	color: #036360;
+	text-decoration: underline;
+}
+table tr:nth-child(odd){
+  background-color: #BBB6AE;
+}
+time {
+	font-weight: bold;
+	color: #0E6655 ;
+}
+.Alignementzz {
+      display: inline-table;
+}
